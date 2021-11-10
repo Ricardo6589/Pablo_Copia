@@ -49,3 +49,12 @@
     div>p {
         padding: 3%;
     }
+    
+    div li,
+    #indice {
+        background-color: #FCC79D;
+    }
+    
+    div p {
+        background-color: rgb(17, 56, 39)
+    }
