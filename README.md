@@ -10,4 +10,9 @@
   * Regla 7: Los elementos `h2` tendrán  un color `RGB 125, 60, 152`
   * Regla 8: Los elemntos con id `indice` tendrán [este formato de letra]((https://fonts.google.com/specimen/Indie+Flower#standard-styles))
   * Regla 9: El documento entero tendrá un color de fondo `RGB 95, 106, 106`
-  * Regla 10: 
+  * Regla 10: los h1 adyacentes aun div tendran negrita `b`
+  * Regla 11:
+  * Regla 12:
+  * Regla 13:
+  * Regla 14:
+  * Regla 15: 
