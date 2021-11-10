@@ -7,12 +7,13 @@
   * Regla 5 : Los elementos `div` tendran un borde, esquinas redondeadas de `5px`, color `RGB 46, 204, 113` `2px`
   * Regla 6: los `p` que estén dentro de un `div` contendrán [este formato de letra](https://fonts.google.com/specimen/Architects+Daughter#glyphs)
   * Regla 7: los elementos con classe `especial`tendrán un color `RGB125, 60, 152` 
-  * Regla 7: Los elementos `h2` tendrán  un color `RGB 125, 60, 152`
+  * Regla 7: Los elementos `h2` tendrán  un color `RGB 125, 60, 152` y subrayado 
   * Regla 8: Los elemntos con id `indice` tendrán [este formato de letra](https://fonts.google.com/specimen/Indie+Flower#standard-styles))
-  * Regla 9: El documento entero tendrá un color de fondo `RGB 95, 106, 106`
-  * Regla 10: los h1 adyacentes aun `div` tendran negrita `b`
+  * Regla 9: El documento entero tendrá un color de fondo `rgb(9, 10, 10)`
+  * Regla 10: los p tendrán color `withesmoke`
   * Regla 11: Los `div` con id `indice` tendran un color de fondo `#FCC79D`
   * Regla 12: Los `p`derivados de un `div`con id `indice` tendran `color 61, 250, 166` 
   * Regla 13: los `div` con clase `historia` tendran un color de fondo `#B88FB3` 
   * Regla 14: los `h2`tendran un subrayado
-  * Regla 15: 
+  * Regla 15: como norma general todos los elementos deven tener como mínimo un margin de 1%
+  * Regla 16: Todos los elementos `p`que sean hijos de un `div` tendran un padding de 3%
