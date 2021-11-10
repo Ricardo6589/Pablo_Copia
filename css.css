@@ -1,0 +1,38 @@
+    * {
+        font-family: 'Roboto Mono', monospace;
+    }
+    
+    #titulo {
+        margin: 0;
+        padding: 7%;
+    }
+    
+    h1 {
+        color: salmon;
+        text-decoration: underline;
+    }
+    
+    div {
+        border: rgb(46, 204, 113) 2px solid;
+        border-radius: 5px;
+    }
+    
+    div p {
+        font-family: 'Architects Daughter', cursive;
+    }
+    
+    .special {
+        color: rgb(125, 60, 152);
+    }
+    
+    h2 {
+        color: rgb(125, 60, 152);
+    }
+    
+    #indice {
+        font-family: 'Indie Flower', cursive;
+    }
+    
+    * {
+        background-color: rgb(95, 106, 106)
+    }
