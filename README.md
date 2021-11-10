@@ -11,7 +11,7 @@
   * Regla 8: Los elemntos con id `indice` tendrán [este formato de letra](https://fonts.google.com/specimen/Indie+Flower#standard-styles))
   * Regla 9: El documento entero tendrá un color de fondo `rgb(9, 10, 10)`
   * Regla 10: los p tendrán color `withesmoke`
-  * Regla 11: El elemento ol con `id:"indice"` hijos de un div  tendran un color de fondo `#FCC79D` 
+  * Regla 11: El elemento `ol` con `id:"indice"` hijos de un div  tendran un color de fondo `#FCC79D` 
   * Regla 12: los `p` que sean hijos de un `div` tendran un color de fondo rgb(17, 56, 39)
   * Regla 13: los `h2`tendran un subrayado
   * Regla 14: como norma general todos los elementos deven tener como mínimo un margin de 1%
